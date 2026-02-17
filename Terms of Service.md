@@ -2,7 +2,7 @@ Terms of Service
 
 Last Updated: January 17, 2026
 
-Hey there! Thanks for using [Lemon]. Please read these Terms of Service carefully before using the bot.
+Hey there! Thanks for using **Lemon**. Please read these Terms of Service carefully before using the bot.
 
 1. Acceptance of Terms
 
@@ -12,7 +12,7 @@ If you do not agree with these terms, please do not use the bot.
 
 2. Description of Service
 
-[Lemon] is a Discord entertainment bot that provides game-based features, including virtual card and point-based activities designed strictly for recreational purposes.
+**Lemon** is a Discord entertainment bot that provides game-based features, including virtual card and point-based activities designed strictly for recreational purposes.
 
 All in-bot currency, chips, points, rewards, or virtual items:
 
