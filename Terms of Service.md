@@ -1,84 +1,137 @@
-# Terms of Service
+Terms of Service
 
-**Last Updated: December 7, 2025**
+Last Updated: December 7, 2025
 
-Hey there! Thanks for choosing our bot to help manage and build your Discord server. Before you get started, please take a moment to read through these terms. We've tried to keep things straightforward and human.
+Hey there! Thanks for using [Lemon]. Please read these Terms of Service carefully before using the bot.
 
-## 1. Acceptance of Terms
+1. Acceptance of Terms
 
-By inviting our bot to your server or using any of its features, you're agreeing to these Terms of Service. If you don't agree with any part of these terms, please don't use the bot.
+By inviting the bot to your server, using the bot, or accessing any of its features, you agree to be bound by these Terms of Service and our Privacy Policy.
 
-## 2. Description of Service
+If you do not agree with these terms, please do not use the bot.
 
-Our bot is designed to help you manage and build your Discord server more effectively. It provides various moderation, automation, and community-building features to make server management easier and more efficient.
+2. Description of Service
 
-## 3. Your Responsibilities
+[Lemon] is a Discord entertainment bot that provides game-based features, including virtual card and point-based activities designed strictly for recreational purposes.
 
-When using our bot, you agree to:
+All in-bot currency, chips, points, rewards, or virtual items:
 
-- Use the bot in compliance with Discord's Terms of Service and Community Guidelines
-- Not use the bot for any illegal activities or to harass, abuse, or harm others
-- Not attempt to exploit, hack, or reverse-engineer the bot
-- Not use the bot to spam, raid, or disrupt other servers
-- Take responsibility for how the bot is configured and used in your server
+Have no real-world monetary value
 
-## 4. Our Responsibilities
+Cannot be exchanged, redeemed, or converted into real money or assets
 
-We strive to:
+Exist solely within the bot's internal system
 
-- Keep the bot running smoothly and reliably
-- Protect your data as outlined in our Privacy Policy
-- Provide reasonable support when issues arise
-- Give you notice if we make significant changes to the bot's functionality
+The bot does not function as a gambling platform.
 
-However, we can't guarantee:
+3. No Real-Money Transactions
 
-- 100% uptime (maintenance happens, and technical issues can occur)
-- That the bot will meet all your specific needs
-- Compatibility with all future Discord updates
+The bot:
 
-## 5. Limitations and Restrictions
+Does not process payments
+
+Does not support deposits or withdrawals
+
+Does not facilitate betting or wagering with real-world money
+
+Any attempt by users to exchange virtual points for real money outside the system is strictly prohibited and is not associated with the bot or its developer.
+
+Accounts involved in such activity may be permanently restricted.
+
+4. Age Requirement
+
+You must be at least 13 years old (or the minimum age required by Discord in your jurisdiction) to use this bot.
+
+By using the bot, you confirm that you meet this requirement.
+
+5. User Responsibilities
+
+You agree to:
+
+Use the bot in compliance with Discord’s Terms of Service and Community Guidelines
+
+Not exploit bugs, vulnerabilities, or system loopholes
+
+Not use automation, scripts, or unauthorized tools to gain unfair advantages
+
+Not use the bot for illegal activities
+
+Server administrators are responsible for how the bot is configured and used in their servers.
+
+6. Developer Rights
 
 We reserve the right to:
 
-- Modify, suspend, or discontinue any feature of the bot at any time
-- Deny service to any user or server that violates these terms
-- Set usage limits to ensure fair access for all users
-- Update these terms as needed (we'll notify you of major changes)
+Modify, balance, reset, or remove virtual currency and game data
 
-## 6. Data and Privacy
+Suspend or terminate access for violations of these Terms
 
-Your privacy matters to us. Please check our Privacy Policy to understand how we collect, use, and protect your data. By using the bot, you also agree to our data practices as described there.
+Update or discontinue features at any time
 
-## 7. Intellectual Property
+Impose usage limits to maintain service stability
 
-The bot, including its code, design, and features, is our intellectual property. You're granted a limited, non-exclusive license to use the bot for its intended purpose. You may not copy, modify, or redistribute any part of the bot without permission.
+Game mechanics, odds, and reward systems may change without prior notice.
 
-## 8. Liability and Disclaimers
+7. Data and Privacy
 
-The bot is provided "as is" without any warranties. We're not liable for:
+We collect and process limited data necessary to operate the bot (such as user IDs and game statistics).
 
-- Any damages resulting from the use or inability to use the bot
-- Data loss or server issues caused by the bot
-- Actions taken by server members or moderators using the bot
-- Third-party services or integrations the bot may connect with
+Please review our Privacy Policy for details on how data is handled.
 
-You use the bot at your own risk.
+8. Intellectual Property
 
-## 9. Termination
+All code, branding, game mechanics, and design elements of the bot remain the intellectual property of the developer.
 
-You can stop using the bot anytime by removing it from your server. We may terminate your access if you violate these terms. When service ends, certain data may be retained as described in our Privacy Policy.
+You are granted a limited, non-exclusive, revocable license to use the bot for its intended purpose only.
 
-## 10. Changes to Terms
+9. Disclaimer of Warranties
 
-We may update these terms occasionally. If we make significant changes, we'll let you know through our support server or bot announcements. Continuing to use the bot after changes means you accept the new terms.
+The bot is provided “as is” and “as available” without warranties of any kind.
 
-## 11. Contact Us
+We do not guarantee:
 
-Got questions or concerns about these terms? Feel free to reach out:
+Continuous or uninterrupted service
 
-- Email: remongima@gmail.com
+Error-free operation
 
----
+Compatibility with all Discord updates
 
-Thanks for reading! We're here to help make your Discord server awesome.
+Use of the bot is at your own risk.
+
+10. Limitation of Liability
+
+To the maximum extent permitted by law, the developer shall not be liable for:
+
+Loss of data
+
+Loss of virtual currency or in-bot progress
+
+Server disruptions
+
+User disputes
+
+Any indirect, incidental, or consequential damages
+
+11. Termination
+
+You may stop using the bot at any time by removing it from your server.
+
+We may suspend or terminate access if you violate these Terms.
+
+Certain data may be retained as described in our Privacy Policy.
+
+12. Governing Law
+
+These Terms shall be governed by and interpreted in accordance with the laws of [Country], without regard to conflict of law principles.
+
+13. Changes to Terms
+
+We may update these Terms periodically.
+
+Continued use of the bot after updates constitutes acceptance of the revised Terms.
+
+14. Contact
+
+For questions regarding these Terms:
+
+Email: remongima@gmail.com
