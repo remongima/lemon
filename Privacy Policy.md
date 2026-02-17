@@ -116,9 +116,7 @@ In the unlikely event of a data breach that affects your information, we'll noti
 
 If you have questions, concerns, or requests regarding your privacy or this policy, please reach out:
 
-- Support Server: [Your Discord Server Link]
-- Email: [Your Contact Email]
-- Data Protection Inquiries: [Specific DPO Email if applicable]
+- Email: remongima@gmail.com
 
 ---
 
