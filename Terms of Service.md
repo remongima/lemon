@@ -77,8 +77,7 @@ We may update these terms occasionally. If we make significant changes, we'll le
 
 Got questions or concerns about these terms? Feel free to reach out:
 
-- Support Server: [Your Discord Server Link]
-- Email: [Your Contact Email]
+- Email: remongima@gmail.com
 
 ---
 
