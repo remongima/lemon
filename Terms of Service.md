@@ -1,6 +1,6 @@
 Terms of Service
 
-Last Updated: December 7, 2025
+Last Updated: January 17, 2026
 
 Hey there! Thanks for using [Lemon]. Please read these Terms of Service carefully before using the bot.
 
